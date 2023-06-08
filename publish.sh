@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# 整理信息
+# 整理 package.json 的信息
 node ./optimize-package.js
 
 npm publish --access=public --registry=https://registry.npmjs.org/
