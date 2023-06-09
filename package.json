@@ -2,6 +2,7 @@
 	"name": "@minionorg/cli",
 	"version": "1.0.1",
 	"description": "脚手架工具",
+	"main": "./bin/index.js",
 	"keywords": [
 		"@minionorg",
 		"cli",
